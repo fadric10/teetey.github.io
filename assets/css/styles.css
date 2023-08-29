@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+  img {
+    width: 70%;
+  }
+}
+
+@media (min-width: 1400px) {
+  img {
+    width: 50%;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    padding-top: 50%;
+  }
+}
+
